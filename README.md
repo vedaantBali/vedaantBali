@@ -24,3 +24,10 @@ You can check out my projects here, and contribute too!
 🔭 My major project consists of the repositories [Groove-chain](https://github.com/vedaantBali/groove-chain), [Groove-peer](https://github.com/vedaantBali/groove-peer) and [Groove-wallet](https://github.com/vedaantBali/groove-wallet). Check it out!
 
 You can visit my portfolio website at [vedaantbali.github.io](https://vedaantbali.github.io), through which you can reach out to me :). 
+
+----
+[<img src="https://img.shields.io/badge/LinkedIn-vedaantbali-blue">](https://www.linkedin.com/in/vedaant-bali)
+
+[![Vedaant's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=vedaantBali&theme=tokyonight&showicons=true)]()
+
+![Vedaant's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vedaantBali&theme=cobalt&layout=compact)
