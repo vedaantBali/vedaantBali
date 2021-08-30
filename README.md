@@ -30,4 +30,3 @@ You can visit my portfolio website at [vedaantbali.github.io](https://vedaantbal
 
 [![Vedaant's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=vedaantBali&theme=tokyonight&showicons=true)]()
 
-![Vedaant's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vedaantBali&theme=cobalt&layout=compact)
